@@ -33,3 +33,12 @@ Trained models:
                 
 Plot results:
 
+                HW_1_1_func1_post_processing.ipynb (for plotting model losses and predictions)
+
+
+
+--% HW 1-1 %--
+
+Train on Actual Task (Dir: DL-with-PyTorch/HW 1/HW 1-1/CIFAR10/)
+
+Training codes: 
