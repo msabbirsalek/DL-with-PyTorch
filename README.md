@@ -1,2 +1,5 @@
 # DL-with-PyTorch
-hello
+--M Sabbir Salek--
+--HW 1--
+
+--% HW 1-1 %--
