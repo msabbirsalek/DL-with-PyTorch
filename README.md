@@ -66,3 +66,10 @@ Accuracy files:
                 Model2: Training accuracy: HW_1_1_CIFAR10_model2_train_accuracies.csv
                 
                         Test accuracy    : HW_1_1_CIFAR10_model2_val_accuracies.csv
+
+Plot results:
+
+                hw_1_1_cifar10_post_processing.ipynb
+      
+      
+--% HW 1-3 %--
