@@ -47,14 +47,22 @@ Training code:
                 
 Loss files: 
 
-                Model0: Traning loss:
-                
-                        Testing loss:
+                Model0: Training loss: HW_1_1_CIFAR10_model0_train_losses.csv
+
+                Model1: Training loss: HW_1_1_CIFAR10_model1_train_losses.csv
                         
-                Model1: Traning loss:
+                Model2: Training loss: HW_1_1_CIFAR10_model2_train_losses.csv
+
+Accuracy files: 
+
+                Model0: Training accuracy: HW_1_1_CIFAR10_model0_train_accuracies.csv
                 
-                        Testing loss:
+                        Test accuracy    :
+
+                Model1: Training accuracy: HW_1_1_CIFAR10_model1_train_accuracies.csv
+                
+                        Test accuracy    :
                         
-                Model2: Traning loss:
+                Model2: Training accuracy: HW_1_1_CIFAR10_model2_train_accuracies.csv
                 
-                        Testing loss:
+                        Test accuracy    :
