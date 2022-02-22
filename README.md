@@ -57,12 +57,12 @@ Accuracy files:
 
                 Model0: Training accuracy: HW_1_1_CIFAR10_model0_train_accuracies.csv
                 
-                        Test accuracy    :
+                        Test accuracy    : HW_1_1_CIFAR10_model0_val_accuracies.csv
 
                 Model1: Training accuracy: HW_1_1_CIFAR10_model1_train_accuracies.csv
                 
-                        Test accuracy    :
+                        Test accuracy    : HW_1_1_CIFAR10_model1_val_accuracies.csv
                         
                 Model2: Training accuracy: HW_1_1_CIFAR10_model2_train_accuracies.csv
                 
-                        Test accuracy    :
+                        Test accuracy    : HW_1_1_CIFAR10_model2_val_accuracies.csv
