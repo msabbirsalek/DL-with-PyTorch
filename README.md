@@ -41,4 +41,20 @@ Plot results:
 
 Train on Actual Task (Dir: DL-with-PyTorch/HW 1/HW 1-1/CIFAR10/)
 
-Training codes: 
+Training code: 
+
+                hw_1_1_cifar10.ipynb
+                
+Loss files: 
+
+                Model0: Traning loss:
+                
+                        Testing loss:
+                        
+                Model1: Traning loss:
+                
+                        Testing loss:
+                        
+                Model2: Traning loss:
+                
+                        Testing loss:
