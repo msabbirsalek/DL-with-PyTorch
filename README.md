@@ -79,3 +79,5 @@ Code for Training with Random Labels:
                 hw-1-3-random-labels.ipynb
 
 Code for Parameters vs. Generalization: 
+
+                hw_1_3_param_vs_generalization.ipynb
