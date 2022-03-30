@@ -1,0 +1,6 @@
+modelName,AverageBleu Score,bleu_Score,model_loc
+,,0.600093957,TrainedModels/model_batchsize_16_hidsize_256_DP_0.2_worddim_1024.h5
+,,0.690616515,TrainedModels/model_batchsize_16_hidsize_512_DP_0.2_worddim_1024.h5
+,,0.699341592,TrainedModels/model_batchsize_32_hidsize_128_DP_0.2_worddim_2048.h5
+,,0.677570416,TrainedModels/model_batchsize_32_hidsize_128_DP_0.3_worddim_1024.h5
+,,0.666791746,TrainedModels/model_batchsize_32_hidsize_128_DP_0.4_worddim_2048.h5

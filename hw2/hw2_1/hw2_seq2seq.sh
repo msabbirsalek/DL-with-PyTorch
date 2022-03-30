@@ -1,0 +1,1 @@
+python Videocaptioning_main.py $1 $2
