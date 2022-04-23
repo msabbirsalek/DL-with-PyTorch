@@ -695,10 +695,10 @@ def testmodel(arg):
             'bleu_Score' : average
         }
         result_pd = result_pd.append(row,ignore_index=True)
-        result_pd.to_csv("temp_result_v2.csv",index=False)
+        result_pd.to_csv("temp_result_v3.csv",index=False)
 
 
-    result_pd.to_csv("final_result_v2.csv",index=False)
+    result_pd.to_csv("final_result_v3.csv",index=False)
 
 
 if __name__=="__main__":
@@ -707,8 +707,8 @@ if __name__=="__main__":
     if train==True:
         main_execution()
     if test == True:
-        arg = ["testing_data","result.txt"]
-        #arg = [sys.argv[1],sys.argv[2]]
+        #arg = ["testing_data","result.txt"]
+        arg = [sys.argv[1],sys.argv[2]]
         
         
         testmodel(arg)

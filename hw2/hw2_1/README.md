@@ -13,5 +13,4 @@
 1. model_batchsize_32_hidsize_128_DP_0.2_worddim_2048.h5 (Bleu Score - 0.699341592)
 2. model_batchsize_16_hidsize_512_DP_0.2_worddim_1024.h5 (Bleu Score - 0.690616515)
 
-### Results from the model **model_v2_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.h5** is given in **result3_batchSize_32_hidSize_128_dropPer_0.2_wordDim_2048.txt .**
 
